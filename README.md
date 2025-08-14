@@ -1,1 +1,2 @@
-# decentralised-app
+# dapps
+Training
